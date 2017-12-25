@@ -22,7 +22,7 @@ export const navigation = {
       group: 'Dashboard  ',
       menus: [
         {
-          name: 'Dashboard preview',
+          name: 'Home',
           linkTo: '/',
           faIconName: 'fa-eye'
         },
