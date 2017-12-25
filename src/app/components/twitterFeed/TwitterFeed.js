@@ -27,7 +27,7 @@ function DemoTweetMessage() {
   );
 }
 
-const TwitterFeed = () => (
+const   TwitterFeed = () => (
   <Panel
     hasTitle={true}
     title={'Twitter Feed'}>
